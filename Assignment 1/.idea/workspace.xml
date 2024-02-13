@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b891a4e-ca4a-4aeb-8499-dfb26a4ac60c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Codes/enme482/Part 2/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/enme482/Part 2/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/enme482/Part 2/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/enme482/Part 2/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/enme482/Part 2/path.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/enme482/Part 2/path.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Codes/enme482" />
+  </component>
+  <component name="ProjectId" id="1gcbw6g4kcZ6BpbOUkZ1n3qL39F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/UV" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b891a4e-ca4a-4aeb-8499-dfb26a4ac60c" name="Default Changelist" comment="" />
+      <created>1598417062126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598417062126</updated>
+      <workItem from="1598417063388" duration="103000" />
+      <workItem from="1598957901641" duration="135000" />
+      <workItem from="1599444350956" duration="143000" />
+      <workItem from="1600208482421" duration="582000" />
+      <workItem from="1600209606992" duration="1378000" />
+      <workItem from="1600926242755" duration="627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598417163856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1598417163856" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600932188919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.115.1920.1040@0.0.1536.824" timestamp="1600932188919" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599444372639" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1598417157605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1598417157605" />
+  </component>
+</project>
